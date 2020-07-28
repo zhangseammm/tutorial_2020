@@ -17,8 +17,8 @@
 1. 编写一个**多文件**的 C++ 程序，用 OpenCV 写一个视频背景还原器。具体要求请阅读[详细说明](https://github.com/SYSU-AERO-SWIFT/tutorial_2019/blob/master/tasks/week2/background_recovery.md)。并阅读[团队代码规范](https://github.com/SYSU-AERO-SWIFT/tutorial_2019/wiki/%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C%E8%A7%84%E8%8C%83)，按照相应规范编写该程序。
 2. 为上述工程写一个 `makefile` 文件并编译运行通过。
 3. 使用 Markdown，按照团队代码规范写一份说明文档。
-4. 完成[程序设计能力练习](https://github.com/SYSU-AERO-SWIFT/tutorial_2019/blob/master/tasks/week2/programming_exercise.md)第二周题目链表加法，使用 `g++` 编译。
-5. 完成 [Shell 练习题](https://github.com/SYSU-AERO-SWIFT/tutorial_2019/blob/master/tasks/week2/shell_exercise.md)。可参考[菜鸟教程](http://www.runoob.com/linux/linux-shell.html)或者 [Shell Scripting Tutorial](https://www.shellscript.sh/) 等，掌握基础命令即可。
+4. 完成[程序设计能力练习](https://github.com/SYSU-AERO-SWIFT/tutorial_2020/blob/master/tasks/week2/programming_exercise.md)第二周题目链表加法，使用 `g++` 编译。
+5. 完成 [Shell 练习题](https://github.com/SYSU-AERO-SWIFT/tutorial_2020/blob/master/tasks/week2/shell_exercise.md)。可参考[菜鸟教程](http://www.runoob.com/linux/linux-shell.html)或者 [Shell Scripting Tutorial](https://www.shellscript.sh/) 等，掌握基础命令即可。
 
 ### 评分标准：
 

@@ -19,7 +19,7 @@
 4. 相应地编写一个动态参数服务器。
 5. 利用提供的小车模型和源码，模仿源码并在源码的基础上修改，试着实现小车的转弯、停止，并尝试使用 `Publisher` 来发布指令来控制小车的方向和速度。详细要求请见 [任务说明](https://github.com/SYSU-AERO-SWIFT/tutorial_2019/blob/master/tasks/week3/task3_description.md)
 6. 让小车走一个 S 形（注意，我们在小车的行走中将加上噪声，你可能需要使用到PID控制）
-7. 编写一个基于ROS的模拟器对任务七仿真，详细说明[在这里](https://github.com/SYSU-AERO-SWIFT/tutorial_2019/blob/master/tasks/week3/project_description.md)
+7. 编写一个基于ROS的模拟器对任务七仿真，详细说明[在这里](https://github.com/SYSU-AERO-SWIFT/tutorial_2020/blob/master/tasks/week3/project_description.md)
 8. 提交时请使用 `.gitignore` 忽略追踪中间文件（`build/`、`devel/`等）。
 
 **评分标准：**
