@@ -6,6 +6,7 @@
 2. 熟练使用检索工具，善于查看官方文档获取资料。
 3. 熟练使用 `cmake`。
 4. 参考资料：[ROS官方文档](http://wiki.ros.org/cn)、[MOOC-ROS教程](https://www.icourse163.org/course/ISCAS-1002580008)、bilibili 网课资源。
+5. 研读赛事官方[任务九规则](http://www.aerialroboticscompetition.org/assets/downloads/mission9rules_2.01.pdf)以及[任务九模拟赛规则](http://www.aerialroboticscompetition.org/assets/downloads/simulation_challenge_rules_1.1.pdf)
 
 **选修内容：**
 
